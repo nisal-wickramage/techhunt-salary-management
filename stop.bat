@@ -4,4 +4,3 @@ docker container rm techhunt-api
 docker container rm techhunt-ui
 
 
-
